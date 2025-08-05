@@ -59,6 +59,18 @@ export OPENAI_API_KEY="your_api_key_here"
 - ⚡ Fast and efficient processing
 - 🔗 Complete GitHub API integration
 
+## Demo Repository
+
+Check out a practical demonstration of this assistant's capabilities in the [MCP Test Repository](https://github.com/Edson1337/mcp-test), where the following operations were successfully automated:
+
+- ✅ **Repository Creation** - Created a new repository from scratch
+- ✅ **Branch Management** - Created and managed feature branches
+- ✅ **File Operations** - Uploaded and managed files through the assistant
+- ✅ **Pull Request Workflow** - Opened and merged pull requests automatically
+- ✅ **Issue Management** - Created and closed issues programmatically
+
+This demo showcases the real-world capabilities of the DevBot GitHub Assistant in automating common GitHub workflows.
+
 ## Architecture
 
 This assistant leverages Model Context Protocol (MCP) servers to provide specialized tools and capabilities, enabling seamless interaction with GitHub's ecosystem through standardized interfaces.
